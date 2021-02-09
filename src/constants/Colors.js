@@ -1,0 +1,20 @@
+export default {
+  primary: "#C2185B",
+  accent: "#FFC107",
+  red: "#c1272d",
+  gray: "#ccc",
+  green: "#33691e",
+  origin: "#FF5C22",
+  OrangeRed: "#fb6405",
+  LightGray: "#898ea6",
+  Black: "#111111",
+  Thistle: "#D9DAE3",
+  InputText: "rgba(116,122,147,0.5)",
+  disable: "#d7d8d9",
+  FaceBook: "#4267b2",
+  Gmail: "#db4437",
+  pink: "#f9453f",
+  Violet: "#ffbdbd",
+  White: "#FFFFFF",
+
+};

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EZFill</string>
+<string name="facebook_app_id">301685287686986</string>
+<string name="fb_login_protocol_scheme">fb301685287686986</string>
+<string name="freshchat_file_provider_authority">com.ezfill.provider</string>
+
+</resources>

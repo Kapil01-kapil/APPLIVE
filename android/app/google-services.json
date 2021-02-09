@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "580883664496",
+    "firebase_url": "https://ezfill-app.firebaseio.com",
+    "project_id": "ezfill-app",
+    "storage_bucket": "ezfill-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580883664496:android:5394dda8f2c51bc0e5aeb5",
+        "android_client_info": {
+          "package_name": "com.ezfill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580883664496-19vj4qhv430gvko3ahq2jvprkgf921tu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ezfill",
+            "certificate_hash": "dad1ff8b70083c797248074b2b54bc674a071a55"
+          }
+        },
+        {
+          "client_id": "580883664496-s12o3fan4l2g4gif8593qkoef86ccc1r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ezfill",
+            "certificate_hash": "bb01d97456c5f19a9bee87da79c3a48559ab2e81"
+          }
+        },
+        {
+          "client_id": "580883664496-2oudtmtsuvtigc10pro8cbtur9tgum02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJE7bHn-8SdCNlvXGQOxx4_a0_9Y3L9c0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580883664496-2oudtmtsuvtigc10pro8cbtur9tgum02.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "580883664496-i78nl56eotqvrm3it1rhou9hvqvhie5j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.EZFill"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
